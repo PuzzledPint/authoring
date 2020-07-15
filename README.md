@@ -9,6 +9,8 @@ Tips, guidelines, and resources for authoring Puzzled Pint puzzles.
 - [Tips for Writing Good Puzzled Pint Puzzles](./Tips_for_Writing_Good_Puzzled_Pint_Puzzles.md)
 - [Upcoming and Past Themes](http://www.puzzledpint.com/info/author/upcoming-and-past-themes/)
 
+----------------------------------------
+
 - [Resources (fonts, images, templates)](./resources/)
 
 ![](cc-a-nc-sa-4.png)
